@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fuel Library</string>
+    <string name="upload">Upload</string>
+    <string name="permission_denied">Permission has denied</string>
+    <string name="choose_from_gallery">Choose from image gallery</string>
+    <string name="please_select_your_image">Please select your image</string>
+</resources>
